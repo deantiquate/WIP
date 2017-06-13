@@ -11,7 +11,7 @@
   - [Digitization Projects](#digitization-projects)
   - [Appendices](#appendices)
 	  - [Telegram photographers](#telegram-photographers)
-	  - [Wire Service names](#wire-service-names)
+	  - [Wire Services](#wire-services)
 	  - [Author of article](#author-of-article)
 	  - [Common subjects, locations](#common-subjects-locations)
 	
@@ -122,11 +122,13 @@ Since the majority of photographs in the Telegram collection are in negative for
 ###### 3.2.2 Samples
 
 Quotes for scanning negatives range from $2 – $20 per negative, variables being quality, size, and added metadata. We had two vendors digitize samples from the collection, with the request that the scanned images be of a quality that conceivably could be used as masters for hard-copy glossy prints. The first batch we examined was scanned with the specification that it would be possible to print the negatives at 800 dpi. The vendor proposed a rate of $20 per image (this included multiple copies of the images at different resolutions). A typical image from the collection had the following attributes:
+
 | Vendor 1 sample scan | |
-| Pixel dimension  |	4000 x 3000 pixels |
-| Print size |	4 x 5 inches  |
-| Printing resolution 	| 800 dpi |
-| File size |	12 MB |
+| --- | --- |
+| Pixel dimension | 4000 x 3000 pixels |
+| Print size | 4 x 5 inches |
+| Printing resolution | 800 dpi |
+| File size | 12 MB |
 
 Most office laser printers are capable of printing documents at 600 dpi while a printer used for printing photographs needs 1200 dpi, so 800 dpi for a 4 x 5 print will not produce an acceptable image. Increasing resolution to the point of producing images suitable for printing, and possibly suitable for storing archival digital masters results in a corresponding increase in file size and scanning cost. An black and white image scanned to produce a 1200 dpi print will increase to over 20 MB and cost twice as much to scan.
 
@@ -359,7 +361,7 @@ Over the years there have been specific initiatives that have prioritized the di
 ## Appendixes
 ### Names
 There are a number of reoccuring names in the Telegram collection associated with the creation of photographs.
-#### Photographers
+#### Telegram photographers
 See [Tab 3 of Telegram metadata abbreviation & full form mapping list](https://docs.google.com/spreadsheets/d/1ySv-OA2CsN_L5Ty-bCDO3I7Cta_5RJb34IQ-1a-7Kmw/edit?usp=sharing)
 #### Wire Services
 Many photographic prints in the Telegram archive are images purchased from various wire services. Many of these images are still under copyright
