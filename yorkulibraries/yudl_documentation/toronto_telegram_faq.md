@@ -12,8 +12,8 @@
   - [Appendices](#appendices)
 	  - [Telegram photographers](#telegram-photographers)
 	  - [Wire Service names](#wire-service-names)
+	  - [Author of article](#author-of-article)
 	  - [Common subjects, locations](#common-subjects-locations)
-	  - [Ontologies](#ontologies)
 	
 
 ## History of the Toronto Telegram
@@ -289,13 +289,73 @@ Our biggest mistake was that we did not clearly communicate with the digitizatio
 This was a pilot project intended to test the feasibility of digitizing primary source materials in the libraries, and as such it has proven very useful. The basic procedures for digitizing the Toronto Telegram Photograph Collection have been tested and can be easily established as routines. In relation to other means of providing access to library and archival material, digitization is expensive, but it is not entirely appropriate to compare conventional, in-house access or hard-copy publication to web access. Web access should be viewed as something that is much more pervasive than conventional in-house access, perhaps with a large upfront investment but ultimately having a very beneficial effect through exposure of previously inaccessible materials, the development of a web presence for the libraries, and service to the community at large.
 
 ## Red Dot Project
+The Red Dot Project was developed in 2010 to provide an ongoing project to keep scanning assistants occupied when there were no faculty-driven requests. It was intended to quickly generate high quality digital surrogates for photographic negatives that were deteriorating due to severe vinegar syndrome and to capture images that were in the same box as deteriorating negatives.
+
+The Red Dot Project informed a series of changes to our workflows and expanded the descriptive metadata we captured. It severely underestimated the time required to digitize a full box of Telegram negatives, which could hold 450-500 individual assignments. By expanding the metadata that was captured, we increased the time required to describe each negative. As well, we required scanning assistants to create descriptions which proved to be challenging and created an additional layer of quality control and supervision.
+
+##### Summary of project proposal from 2010 submitted by Anna St.Onge
+<!-- TOC depthFrom:1 depthTo:4 withLinks:1 updateOnSave:1 orderedList:0 -->
+- [Summary](#summary)
+- [Objectives](#objectives)
+- [Summary of materials at risk](#summary-of-materials-at-risk)
+- [Phase I of Project](#phase-i-of-project)
+- [Proposed Workflow](#proposed-workflow)
+	
+#### Summary
+The Toronto Telegram fonds is by far our most frequently used collection of material at ASC.  In order ensure the long-term use of these materials, archives and library staff are collaborating on the systematic digitization of our photographic negatives, followed by the shipping of these items to off-site cold storage with ArchivesOne, a facility located in Bolton, Ontario.
+
+The digitization of these materials is merely a part of an overall preservation strategy.  Our primary objective is to secure these materials in appropriate storage facilities, while keeping the costs at a minimum.  By digitizing every image according to current preservation standards, we will ensure that retrieval costs will be minimal and the items will not be put at further risk through retrieval and scanning requests.
+
+#### Objectives
+* Halt the increasing deterioration of our photographic negatives by sending them off to secure off-site cold storage.
+* To limit the costs of retrieval and the risk of further deterioration incurred by repetitive scanning by systematic scanning of those images suffering the most from vinegar syndrome.
+* To fuel our ongoing digital initiatives by feeding new content into YorkSpace which is in high demand.
+
+#### Summary of materials at risk
+**Telegram negatives**
+* 453 boxes (18 x 15 x 38.5 cm) containing  b&w negatives (90% are 35 mm). Of these there are about 40 boxes that are marked with red dots indicating they are exhibiting significant symptoms of vinegar syndrome. Red Dot items:
+048, 083, 093, 119, 164, 166, 167, 173, 177, 178, 182, 185,  231, 240, 251, 252, 253, 254, 255, 258, 274, 292, 325, 326, 332, 335, 346, 357, 367, 380, 394, 396, 407, 417, 438
+
+* 24 boxes (18 x 15 x 38.5 cm) containing colour negatives (a mix of 35mm and 5.6 x 5.6 cm formats).
+
+#### Phase I of Project
+**Digitization of negatives at greatest risk for deterioriation due to vinegar syndrome.**
+Create contact sheets for each assignment 8.5 x 11 @ 300 dpi
+Scan each negative @ 3200dpi
+Benefits:
+* Generation of a quick reference image we can upload to YorkSpace
+* Generation of a high resolution digital surrogate for every item in off-site storage, thereby significantly reducing the need to retrieve material (saving on retrieval fees too). 
+* Contact sheets can act as a quick reference or thumbnail for a particular assignment, with all subsequent items being linked to the item record. This will address the complaint from some users with apparent ‘duplication’ of images due to the presence of sequences of images in a roll of film.
+
+#### Proposed Workflow
+1. The Digital Initiatives student staff will be individually responsible for one box at a time.  Archival student assistants will retrieve “red dot” boxes in order for the student assistant.
+
+2. The Digital Initiatives student will go through each file individually, scanning the items to the standards established above. The images should be grouped by the Telegram staff assignment - that is, the yellow envelope in which each group of negatives are held.
+
+3. Begin systematically and scan each envelope as a group.
+	3a. The envelope should be scanned to preserve original metadata and should be added to the contact sheets generated from the scanning as a pdf.
+	3b.Begin by scanning both sides of the envelope at: @ 300 dpi @ 100%  and in colour
+	3c.These scans will be added to the pdf generated by the student from the contact sheets.
+
+4. Using the light table, sort the images into sequence, using the negative numbers listed along the bottom of the film.  There might be several rolls of film in a single envelope, so be sure to link strips based on their numbers, as well as the sequence of the image and the slice angles.
+
+5. Once you have finished sequencing a roll of film, lay it out on the fat bed scanner in order and proceed to scan contact sheets. Each contact sheet will be assigned an ASC#. Basic metadata should be entered by the student into the Access database.
+
+6. Scan each negative image systematically, going in order of the film.
+
+Note: A student can be sorting negatives into contact sheets while another student is scanning the sheets or individual negatives. Another student can also be inputing metadata of a previous scanning job and cross referencing images/contact sheets in the ASC database while other students are scanning.
+
+#### Costs
+* New scanner to equip a third work station. @ $3,000 
+* Mini-light table for sorting negatives in Digital Initiatives @ $ 175
+
 ## Digitization Projects
-### Digitization for exhibits
 Over the years there have been specific initiatives that have prioritized the digitization of particular topics and themes. They include: 
 * [_The TTC at 40_/](https://www.library.yorku.ca/binaries/ArchivesSpecialCollections/TTC_photo_gallery/TTCIntro.htm) Developed in 2004 by ASC staff to celebrate the 50th anniversary of the opening of the TTC subway in 1954.
 * [_I heard a story about Yorkville_](https://www.library.yorku.ca/binaries/ArchivesSpecialCollections/Yorkville/i_heard_a_story_about_yorkville.htm)
 * [_Mariposa: celebrating Canadian folk music_](http://archives.library.yorku.ca/exhibits/show/mariposa) This pilot project using the Omeka platform was funded through the Archival Community Digitization Program (ACDP), a grant managed by the Council of Canadian Archives (CCA), and funded through the Department of Canadian Heritage in 2009-2010.
 * Numerous exhibits related to the [Portuguese Canadian History Project (PCHP)](http://archives.library.yorku.ca/exhibits/show/pchp) and the [Greek Canadian History Project (GCHP)](http://archives.library.yorku.ca/exhibits/show/gchp).
+
 ## Appendixes
 ### Names
 There are a number of reoccuring names in the Telegram collection associated with the creation of photographs.
