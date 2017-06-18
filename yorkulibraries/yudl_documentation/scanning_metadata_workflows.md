@@ -310,12 +310,15 @@ _Examples needed_
 ### Location Note
 
 ##  Physical Description
-##  Extent
 
-Examples:
+##  Extent
+Provide a descriptive statement regarding the physical extent of the object being described, following the conventions established in RAD 1.5B.
+
+Below are some of the more common formats and examples
 
 * 1 photograph : b&amp;w negative; 5.3 x 3.6 cm
-* photographic slide
+
+* 1 photograph : colour positive ; 35 mm
 
 * Sound recording
 * Video
