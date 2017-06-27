@@ -327,6 +327,13 @@ Below are some of the more common formats and examples
 * Painting
 
 ## Form
+While there is overlap between the Genre and the Form fields, in Form your focus should be on the 'aboutness' of an object.
+For example:
+* In `Genre` you might use [Concert programs](http://id.loc.gov/authorities/genreForms/gf2014026065.html) but in the `Form` field you would provide terms like [Pamphlets](http://id.loc.gov/vocabulary/graphicMaterials/tgm007415.html), [Leaflets](http://id.loc.gov/vocabulary/graphicMaterials/tgm005863.html) or [Fliers (Printed matter)](http://id.loc.gov/vocabulary/graphicMaterials/tgm004107.html), depending on the form said concert program takes.
+
+Here are some common forms that are in use within YUDL:
+
+* 
 ### Form Authority
 ### Authority URI
 ### Value URI
