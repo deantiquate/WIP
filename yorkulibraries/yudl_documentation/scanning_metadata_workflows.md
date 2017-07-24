@@ -10,10 +10,11 @@ Note : this is a draft manual of what will eventually be available through yorku
 | 2017-06-13 | Anna St.Onge | Adding content to Telegram FAQ |
 | 2017-06-18 | Anna St.Onge | Putting basic structure for digitization workflows and metadata policy |
 | 2017-06-19 | Anna St.Onge and Julia Holland | reviewing and confirming policies for Telegram negs and prints (digitzation and metadata creation) |
+| 2017-07-24 | Anna St.Onge | adding in scanning procedures for Tele negatives |
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [YUDL  Digitization and Metadata Manual](#yudl-digitization-and-metadata-manual)
+[YUDL  Digitization and Metadata Manual](#yudl-digitization-and-metadata-manual)
 - [TELEGRAM NEGATIVES](#telegram-negatives)
 	- [Digitization workflows](#digitization-workflows)
 	- [Descriptive Metadata For Telegram Negatives](#descriptive-metadata-for-telegram-negatives)
@@ -156,6 +157,46 @@ Note : this is a draft manual of what will eventually be available through yorku
 
 # TELEGRAM NEGATIVES
 ## Digitization workflows
+Acknowlegments: These workflows are adapted from earlier iterations of scanning manuals created and implemented by Julia Holland, Andrea Kosavic, Anna St.Onge and others in consulation with digital scanning assistants Ahmed Alwan, Nick Benko, Marisa Chase, David Ding, Prathna Lor, and others.
+
+### Preparation
+* Take envelopes out of box in sequence, use a bookmark to hold the envelope's spot in the box.
+* For each envelope, you will be creating metadata in two spreadsheets: one for the contact sheet PDF, the other for the remaining tiffs.
+* Always wear white cotton gloves when handling negatives
+* Put all TIFFS and PDFs into the directory relevant to the number range of ASC numbers you've been assigned through Redmine.
+* If you have not received a ticket to scan these assignments, create a ticket for them and follow the relevant workflow policies
+* You may need to sleeve negatives that are loose. This may require you cutting the top of the assignment envelope to create some room.
+
+### Scan the assignment envelope and prepare contact sheets
+1. You will be scanning everything as 300 dpi TIFF files and then combining them into one PDF file.
+2. Scan both sides of envelope in 24 bit colour, 300 dpi TIFF (leave a small margin around envelopes)
+3. Scan anything else included in envelope in colour, as a 300 dpi TIFF (leave a small margin around items)
+4. Sort out negative strips in order, dull side up, and scan as grayscale 8-bit TIFFs (if colour negatives, then scan in colour)
+ * Order is determined by neg.# or sequence of events, note slice angles as well (this takes time sorting on the light table but is well worth the effort & time; sometimes multiple rolls of film were shot there might be multiples of the same number. Sorting out multiple reels is important
+ * Some images will not be in sequence, there might be negs missing from a roll (i.e. they were pulled for publication etc.).  Do your best  and keep in mind that the images will complement the negative numbers (i.e. the beginning of the event will be in negative 1 in most cases and end at around negative 24)
+5. Only put three to four 35mm negative strips or two 4 x 5 inch negatives on each page of the contact sheet, more pages can be added to the PDF contact sheet if there are more scans in an image. Try to orient the strips so they will be easily read.
+6. If more than one page is required to scan all negatives into the contact sheet, be sure to adust the description from “File consists of front and back of negative envelope, and one contact sheet. Assignment …” to “File consists of front and back of negative envelope , and ____ contact sheets. Assignment …”. Leave enough of a margin that you can type in the ASC numbers when you create your PDF file. Give each tiff file a temporary file name.
+7. Combine the TIFF files into one PDF file in the following order: front of envelope, back of envelope, negatives, anything else in the envelope
+8. Make sure your TIFF files are oriented in an easily legible way.
+9. Assign an ASC# to the single combined PDF file. Fill out the metadata for your contact sheet in your PDF spreadsheet
+10. Delete the TIFFs you had created for staging purposes, now that you have a PDF of everything in your envelope (*may revise-shoud we preserve tiffs as part of bundle in Islandora?*)
+
+
+### Scan individual negatives
+1. Some of the negatives may already be scanned and have unique identifiers attributed to them. There will be ASC numbers written on the mylar slip and there may be annotations on the envelope.
+2. You may need to resleeve 
+#### Scanning dimensions on flatbed scanner
+
+| Size of original | DPI for Archival TIF | Resulting pixel size |
+|------------------ | ------------------- | -------------------  |
+| 35 mm negative or slide | 3200 dpi |	4800 pixels |
+| 2 1/4 x 2 3/4 inch negatives (5.7 x 7 cm) | 1900 dpi | 4275 pixels |
+| 2 3/8 x 2 3/4 inch negatives (6 x 7 cm) | 1600 dpi | 4400 pixels |
+| 2 3/8 x 2 3/8 inch negatives (6 x 6 cm) | 1800 dpi | 4275 pixels |
+| 2 3/8 x 1 3/4 inch negatives (6 x 4.5 cm) | 1800 dpi | 4275 pixels |
+| 4 x 5 inch negative (10.6 x 12.7 cm) | 900 dpi | 4500 pixels |
+| 5 x 7 inch negative (12.7 x 17.78 cm) | 700 dpi | 4200 pixels |
+| 8 x 10 inch negative (20.3 x 25.4 cm) | 600 dpi | 6000 pixels |
 
 ## Descriptive Metadata For Telegram Negatives
 #### ASC Number
@@ -191,6 +232,8 @@ Based on RAD Rule 1.4.B5. we follow the recoding conventions for probable and un
 
 #### Date Published (ISO)
 ### Physical Description
+If there are negatives of different sizes in the envelope say 35mm, 120 film as well as some large 9 x 11 cm ones, scan in the order of most to least for the contact sheet. So ten 35mm negs first, then six 120’s then four 9 x 11 cm but your physical description for the PDF contact sheet should read as: 20 photographs : b&w negative ; 11.9 x 9.2 cm and smaller + 1 envelope : 11 x 14.2 cm 
+
 ### Relation
 ### Publications
     Need examples
@@ -370,3 +413,19 @@ Is your object in the public domain? https://creativecommons.org/publicdomain/ma
 
 ### Rights Statement
 Does your object have additional rights, permissions and descriptions that users must adhere to?
+
+
+### What to do when you encounter a negative that already has a ASC # when completing an assignment?
+1. If you come across a negative that has already been assigned an ASC # that means the negative has already been scanned.
+2. Look up the ASC# in the master image log folder.
+3. Check if the negative has been scanned at the correct dpi. If not, rescan at correct dpi.
+4.  If vinegar syndrome is actively present (neg appears crackly and brittle), do not overwrite the old scan until you have compared them, as the old scan may actually be better if the damage has accelerated since the last scan.
+5. Check to see if the image is already online in YUDL. If it is, make sure to include a note about that in your ticket for this envelope - this means that the staff person will have to go into Islandora and:
+- edit the MODS Datastream for that image with any new additional metadata (some older scans are a bit “light” on metadata and 
+- if there is mo evidence of active vinegar syndrom,  “replace” the older, lower quality .tiff file in the record’s OBJ Datastream. 
+6. Staff will remove the metatadata of TIFFs already scanned before doing a batch ingest.
+7. Staff will move the higher quality scan into the appropriate .tiff folder
+8. In your spreadsheet, use the old ASC # that has already been assigned to the neg and fill the field with the correct metadata.
+
+
+
