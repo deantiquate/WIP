@@ -355,7 +355,7 @@ _Examples needed_
 ##  Physical Description
 
 ##  Extent
-Provide a descriptive statement regarding the physical extent of the object being described, following the conventions established in RAD 1.5B.
+Provide a descriptive statement regarding the physical extent of the object being described, following the conventions established in RAD 1.5B. Should be always listed by height/length then width, and default scale should be in cm.
 
 Below are some of the more common formats and examples
 
