@@ -325,9 +325,15 @@ _point to seperate docs for sound recordings/video/slides/illustrations/maps??_
 ##  Type of Resource
 
 ##  Genre
-### Genre Authority
-### Authority URI
-### Value URI
+As part of a move towards more structured descripttion, we must attribute a genre term (preferably from an existing ontology listed [here](https://www.loc.gov/standards/sourcelist/genre-form.html) to every object we ingest. Below are some common genres based on our collection strengths.
+
+| Term | Authority | Authority URI | Term URI |
+| ----- | ---- | ---- | ---- |
+| Personal correspondence | lcgft | http://id.loc.gov/authorities/genreForms | http://id.loc.gov/authorities/genreForms/gf2014026141.html |
+| Modern dance | lcsh | http://id.loc.gov/authorities/subjects| http://id.loc.gov/authorities/subjects/sh85086440.html |
+| Oral histories | lcgft | http://id.loc.gov/authorities/genreForms | http://id.loc.gov/authorities/genreForms/gf2011026431.html | Folk music | lcgft | http://id.loc.gov/authorities/genreForms | http://id.loc.gov/authorities/genreForms/gf2014026809.html |
+
+Note that there are nuanced differences between genre and form (also a required field listed below)
 
 ## Origin Info
 
@@ -372,14 +378,19 @@ Below are some of the more common formats and examples
 ## Form
 While there is overlap between the Genre and the Form fields, in Form your focus should be on the 'aboutness' of an object.
 For example:
-* In `Genre` you might use [Concert programs](http://id.loc.gov/authorities/genreForms/gf2014026065.html) but in the `Form` field you would provide terms like [Pamphlets](http://id.loc.gov/vocabulary/graphicMaterials/tgm007415.html), [Leaflets](http://id.loc.gov/vocabulary/graphicMaterials/tgm005863.html) or [Fliers (Printed matter)](http://id.loc.gov/vocabulary/graphicMaterials/tgm004107.html), depending on the form said concert program takes.
-
+* In `Genre` you might use [Concert programs](http://id.loc.gov/authorities/genreForms/gf2014026065.html) but in the `Form` field you would provide terms like [Pamphlets](), [Leaflets](http://id.loc.gov/vocabulary/graphicMaterials/tgm005863.html) or [Fliers (Printed matter)](http://id.loc.gov/vocabulary/graphicMaterials/tgm004107.html), depending on the form said concert program takes. In the same manner, in `Genre` you might enter Folk music but in the `Form` fields you may provide terms like Audiocassettes, audiotape reels, or [LP recordings](http://id.loc.gov/vocabulary/ethnographicTerms/afset010822.html) .
 Here are some common forms that are in use within YUDL:
 
-* 
-### Form Authority
-### Authority URI
-### Value URI
+| Term  | Authority | Authority URI | Value URI | 
+| ---- | ---- | ---- | ----- |
+| Correspondence | gmgpc | http://id.loc.gov/vocabulary/graphicMaterials | http://id.loc.gov/vocabulary/graphicMaterials/tgm002590.html |
+| Pamphlets | gmgpc| http://id.loc.gov/vocabulary/graphicMaterials | http://id.loc.gov/vocabulary/graphicMaterials/tgm007415.html |
+| Leaflets| gmgpc |http://id.loc.gov/vocabulary/graphicMaterials |http://id.loc.gov/vocabulary/graphicMaterials/tgm005863.html |
+| Fliers (Printed matter) | gmgpc | http://id.loc.gov/vocabulary/graphicMaterials | http://id.loc.gov/vocabulary/graphicMaterials/tgm004107.html |
+| Photographs | gmgpc | http://id.loc.gov/vocabulary/graphicMaterials/ | http://id.loc.gov/vocabulary/graphicMaterials/tgm007721.html |
+| audiotape reels | afset | http://id.loc.gov/vocabulary/ethnographicTerms/ http://id.loc.gov/vocabulary/ethnographicTerms/afset001070.html |
+| Audiocassettes |gmgpc | http://id.loc.gov/vocabulary/graphicMaterials | http://id.loc.gov/vocabulary/graphicMaterials/tgm012458.html |
+| LP recordings | afset | http://id.loc.gov/vocabulary/ethnographicTerms | http://id.loc.gov/vocabulary/ethnographicTerms/afset010822.html |
 
 ## Notes
 ### General note
