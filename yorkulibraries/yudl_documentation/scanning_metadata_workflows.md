@@ -392,6 +392,7 @@ Here are some common forms that are in use within YUDL:
 | audiotape reels | afset | http://id.loc.gov/vocabulary/ethnographicTerms/ http://id.loc.gov/vocabulary/ethnographicTerms/afset001070.html |
 | Audiocassettes |gmgpc | http://id.loc.gov/vocabulary/graphicMaterials | http://id.loc.gov/vocabulary/graphicMaterials/tgm012458.html |
 | LP recordings | afset | http://id.loc.gov/vocabulary/ethnographicTerms | http://id.loc.gov/vocabulary/ethnographicTerms/afset010822.html |
+| videotapes | afset | http://id.loc.gov/vocabulary/ethnographicTerms | http://id.loc.gov/vocabulary/ethnographicTerms/afset019647.html |
 
 ## Notes
 ### General note
