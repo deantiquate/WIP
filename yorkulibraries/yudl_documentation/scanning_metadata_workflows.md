@@ -326,6 +326,8 @@ _point to seperate docs for sound recordings/video/slides/illustrations/maps??_
 ##  Affiliation
 
 ## Role
+We use terms listed under the LOC MARC Relator Codes. See: http://id.loc.gov/vocabulary/relators.html. A quick alphabetical listing of these terms can be found here: https://www.loc.gov/marc/relators/relacode.html
+Select the most approriate term, or leave this field empty.
 
 ##  Type of Resource
 
