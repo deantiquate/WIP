@@ -11,6 +11,7 @@ Note : this is a draft manual of what will eventually be available through yorku
 | 2017-06-18 | Anna St.Onge | Putting basic structure for digitization workflows and metadata policy |
 | 2017-06-19 | Anna St.Onge and Julia Holland | reviewing and confirming policies for Telegram negs and prints (digitzation and metadata creation) |
 | 2017-07-24 | Anna St.Onge | adding in scanning procedures for Tele negatives |
+| 2017-09-21 | Anna St.Onge | trying to continue work of integrating new policies in forms and documentation |
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
@@ -202,6 +203,10 @@ Acknowlegments: These workflows are adapted from earlier iterations of scanning 
 #### ASC Number
 #### Location
 #### Identifier Other
+Occasionally there will be multiple folders of the same topic. In this case, note which folder this is.
+Example: Folder 2 of 2.
+Occasionally there will be an old Y.U.A. negative # that is written in pencil on the back of a print. Note it in this field.
+Example:OLD Y.U.A. neg # 1080 . See: https://digital.library.yorku.ca/yul-100873/munitions-workers-1939-1944
 ### Titles
 #### Proper Title
 #### Proper Title sub-title
@@ -330,10 +335,10 @@ As part of a move towards more structured descripttion, we must attribute a genr
 | Term | Authority | Authority URI | Term URI |
 | ----- | ---- | ---- | ---- |
 | Personal correspondence | lcgft | http://id.loc.gov/authorities/genreForms | http://id.loc.gov/authorities/genreForms/gf2014026141.html |
-| Modern dance | lcsh | http://id.loc.gov/authorities/subjects| http://id.loc.gov/authorities/subjects/sh85086440.html |
+| Modern dance | lcsh | http://id.loc.gov/authorities/subjects | http://id.loc.gov/authorities/subjects/sh85086440.html |
 | Oral histories | lcgft | http://id.loc.gov/authorities/genreForms | http://id.loc.gov/authorities/genreForms/gf2011026431.html | Folk music | lcgft | http://id.loc.gov/authorities/genreForms | http://id.loc.gov/authorities/genreForms/gf2014026809.html |
 | Interviews (Sound recordings) | lcgft | http://id.loc.gov/authorities/genreForms/ | http://id.loc.gov/authorities/genreForms/gf2015026013 |
-| Speeches | lcgft |http://id.loc.gov/authorities/genreForms/| http://id.loc.gov/authorities/genreForms/gf2011026363.html |
+| Speeches | lcgft |http://id.loc.gov/authorities/genreForms/ | http://id.loc.gov/authorities/genreForms/gf2011026363.html |
 
 Note that there are nuanced differences between genre and form (also a required field listed below)
 
@@ -390,7 +395,7 @@ Here are some common forms that are in use within YUDL:
 | Leaflets| gmgpc |http://id.loc.gov/vocabulary/graphicMaterials |http://id.loc.gov/vocabulary/graphicMaterials/tgm005863.html |
 | Fliers (Printed matter) | gmgpc | http://id.loc.gov/vocabulary/graphicMaterials | http://id.loc.gov/vocabulary/graphicMaterials/tgm004107.html |
 | Photographs | gmgpc | http://id.loc.gov/vocabulary/graphicMaterials/ | http://id.loc.gov/vocabulary/graphicMaterials/tgm007721.html |
-| audiotape reels | afset | http://id.loc.gov/vocabulary/ethnographicTerms/ http://id.loc.gov/vocabulary/ethnographicTerms/afset001070.html |
+| audiotape reels | afset | http://id.loc.gov/vocabulary/ethnographicTerms/ | http://id.loc.gov/vocabulary/ethnographicTerms/afset001070.html |
 | Audiocassettes |gmgpc | http://id.loc.gov/vocabulary/graphicMaterials | http://id.loc.gov/vocabulary/graphicMaterials/tgm012458.html |
 | LP recordings | afset | http://id.loc.gov/vocabulary/ethnographicTerms | http://id.loc.gov/vocabulary/ethnographicTerms/afset010822.html |
 | videotapes | afset | http://id.loc.gov/vocabulary/ethnographicTerms | http://id.loc.gov/vocabulary/ethnographicTerms/afset019647.html |
