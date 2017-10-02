@@ -12,6 +12,7 @@ Note : this is a draft manual of what will eventually be available through yorku
 | 2017-06-19 | Anna St.Onge and Julia Holland | reviewing and confirming policies for Telegram negs and prints (digitzation and metadata creation) |
 | 2017-07-24 | Anna St.Onge | adding in scanning procedures for Tele negatives |
 | 2017-09-21 | Anna St.Onge | trying to continue work of integrating new policies in forms and documentation |
+| 2017-10-02 | Anna St.Onge | updating decisions made re. date fields and prompt text for Telegram prints |
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
@@ -282,11 +283,50 @@ Tab 4 of spreadsheet
 ### Author of article
 Create a directory of known Toronto Telegram reporters, columnists
 ## Origin Information (Dates)
+Determining the date of a Telegram print can be tricky.
+
 ### Date taken (free text)
+Enter the earliest date stamped on verso of print. 
+Enter date without punctuation in the following format (including full month): 18 January 1967.
+Sometimes the information is incomplete, and sometimes there are multiple dates stamped on the verso of a print.
+YUL policy is to document the date the print was first created in this field, not its previous form (photonegative) or future forms (reproduction in the Telegram or in other publications) in this field. Any subsequent reuses are documented in fields such as Date Published or Publications.
+
+Based on RAD Rule 1.4.B5. we follow the recoding conventions for probable and uncertain dates as follows: 
+
+| Date | convention |
+| --------- | --------- |
+| [1967?] | probable date|
+| [ca. 1967] | approximate date |
+| [before 1967] | terminal date |
+| [after 5 Jan. 1967]| terminal date |
+| [1930 or 1933]| one year or the other |
+| [between 1915 and 1918]| use only for dates fewer than 20 years apart |
+| [196-] | decade certain |
+| [196-?] | probable decade |
+| [19–] | century certain |
+| [19–?] | probable century |
+	
 ### Date taken (ISO)
-[need examples]
+This field is required.
+Enter the earliest date stamped on the verso of the print in the following format YYYY-MM-DD.
+If the information is incomplete, or an estimate, YUL policy is as follows:
+
+| Date | convention | ISO policy
+| --------- | --------- | --------|
+| [1967?] | probable date| 1967-01-01 |
+| [ca. 1967] | approximate date | 1967-01-01 |
+| [before 1967] | terminal date | 1966-12-31 |
+| [after 5 January 1967]| terminal date | ???? |
+| [1930 or 1933]| one year or the other |???? |
+| [between 1915 and 1918]| use only for dates fewer than 20 years apart | ???? |
+| [196-] | decade certain | ???? |
+| [196-?] | probable decade | ???? |
+| [19–] | century certain | ???? |
+| [19–?] | probable century | ???? |
+
 ### Date published (ISO)
-[Need examples]
+Only enter this field if you can confirm the date of publication in the Toronto Telegram. This can be from a dated news clipping or caption attached to print, or by evidence obtained by looking at the microfilm.
+
 ## Physical description
 ### Format
 Describe the item using the following format: 1 photograph : b&amp;w print ; ##.# x ##.# cm
@@ -294,6 +334,8 @@ Describe the item using the following format: 1 photograph : b&amp;w print ; ##.
 Typically will always be 1 print scanned out of folder.
 May also be a series of prints from the same roll of film that has been clipped together, in which case note, "1 of a set of x prints scanned out of folder..."
 ## Publications
+
+
 ## Subjects
 ### Subjects
 ### Topic
