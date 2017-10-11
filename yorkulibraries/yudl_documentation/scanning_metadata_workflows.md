@@ -445,7 +445,8 @@ Here are some common forms that are in use within YUDL:
 | Audiocassettes |gmgpc | http://id.loc.gov/vocabulary/graphicMaterials | http://id.loc.gov/vocabulary/graphicMaterials/tgm012458.html |
 | LP recordings | afset | http://id.loc.gov/vocabulary/ethnographicTerms | http://id.loc.gov/vocabulary/ethnographicTerms/afset010822.html |
 | videotapes | afset | http://id.loc.gov/vocabulary/ethnographicTerms | http://id.loc.gov/vocabulary/ethnographicTerms/afset019647.html |
-
+| 16mm film | afset | http://id.loc.gov/vocabulary/ethnographicTerms | http://id.loc.gov/vocabulary/ethnographicTerms/afset000003.html |
+| 8mm film | afset |http://id.loc.gov/vocabulary/ethnographicTerms | http://id.loc.gov/vocabulary/ethnographicTerms/afset000013 |
 ## Notes
 ### General note
 ### Publication Note
