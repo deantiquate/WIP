@@ -423,8 +423,10 @@ Below are some of the more common formats and examples
 * 1 photograph : colour positive ; 35 mm
 
 * Sound recording
-* Video
-* Film
+
+* 1 videocassette (1 hr., 38 min., 12 sec.) : chrome dioxide, master, SP, analog, col., Video 8, PAL, 3:4, sd., stereo., Dolby processed ; 8 mm 
+* 1 film reel (16 min.) : acetate; 16mm
+
 * Illustration
 * Painting
 
