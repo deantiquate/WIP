@@ -384,7 +384,8 @@ As part of a move towards more structured descripttion, we must attribute a genr
 | Modern dance | lcsh | http://id.loc.gov/authorities/subjects | http://id.loc.gov/authorities/subjects/sh85086440.html |
 | Oral histories | lcgft | http://id.loc.gov/authorities/genreForms | http://id.loc.gov/authorities/genreForms/gf2011026431.html | Folk music | lcgft | http://id.loc.gov/authorities/genreForms | http://id.loc.gov/authorities/genreForms/gf2014026809.html |
 | Interviews (Sound recordings) | lcgft | http://id.loc.gov/authorities/genreForms/ | http://id.loc.gov/authorities/genreForms/gf2015026013 |
-| Speeches | lcgft |http://id.loc.gov/authorities/genreForms/ | http://id.loc.gov/authorities/genreForms/gf2011026363.html |
+| Speeches | lcgft |http://id.loc.gov/authorities/genreForms | http://id.loc.gov/authorities/genreForms/gf2011026363.html |
+| Documentary films | lcgft | http://id.loc.gov/authorities/genreForms | http://id.loc.gov/authorities/genreForms/gf2011026205 |
 
 Note that there are nuanced differences between genre and form (also a required field listed below)
 
