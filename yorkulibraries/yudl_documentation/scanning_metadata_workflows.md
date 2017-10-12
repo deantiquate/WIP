@@ -13,6 +13,7 @@ Note : this is a draft manual of what will eventually be available through yorku
 | 2017-07-24 | Anna St.Onge | adding in scanning procedures for Tele negatives |
 | 2017-09-21 | Anna St.Onge | trying to continue work of integrating new policies in forms and documentation |
 | 2017-10-02 | Anna St.Onge | updating decisions made re. date fields and prompt text for Telegram prints |
+| 2017-10-12 | Anna St.Onge | updating areas around copyright to help identify gaps in documentation | 
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
@@ -253,9 +254,23 @@ If there are negatives of different sizes in the envelope say 35mm, 120 film as 
 ### Geographic
 ### Cartographic
 ## Rights and Use of object
-### Use and Reproduction
-### In Copyright
-### Public Domain Status
+
+### Use and Reproduction **requires clarfication**
+Here is where we need to document our decision making and rationale about how we digitize and provide copies of negatives related to Toronto Telegram photographers
+Here is where we need to document our decision making around negatives taken by freelance photographers for the Telegram
+
+### In Copyright **requires clarfication**
+Any photographs taken by Toronto Telegram staff photographer from 1962 until the demise of the newspaper (1971) are still under copyright (which is controlled by York University). Permission to reproduce or reuse said images must be sought from the university using [[link to online form]] .
+
+The term of copyright for images that fall under this category is determined by the life of the creator (the photographer) plus 50 years.
+Therefore, the photographs of Albert Van (1881-1964) that he took as a staff photographer for the Telegram are now in the public domain.
+
+### Public Domain Status **requires clarfication**
+Any photographs taken before 1949 are now in the public domain.
+
+Any photographs taken by Toronto Telegram staff photographers after 1949 and prior to 1962 now fall into the public domain if photographer was an employee of the Toronto Telegram and not a freelance photographer.
+
+
 ### Rights Statement
 
 # TELEGRAM PRINTS
@@ -343,9 +358,23 @@ May also be a series of prints from the same roll of film that has been clipped 
 ### Topic
 ### Geographic
 ### Cartographic
-## Use and Reproduction
-### In Copyright
+
+## Use and Reproduction **requires clarfication**
+Here is where we need to document our decision making and rationale about how we digitize and provide copies of prints
+Here is where we need to document our decision making around wire service prints
+
+### In Copyright **requires clarfication**
+Any photographic prints taken by Toronto Telegram staff photographer from 1962 until the demise of the newspaper (1971) are still under copyright (which is controlled by York University). Permission to reproduce or reuse said images must be sought from the university using [[link to online form]] .
+
+#### Wire Service Prints ####
+Here is where we need to document our decision making around wire service prints.
+Provide link (or create table) of known Wire Services used by the Telegram and their contact information.
+
 ### Public Domain Status
+Any photographic prints taken before 1949 are now in the public domain.
+
+Any photographs taken by Toronto Telegram staff photographers after 1949 and prior to 1962 now fall into the public domain if photographer was an employee of the Toronto Telegram and not a freelance photographer.
+
 ### Rights Statement
 
 # OBJECT MODS
@@ -475,6 +504,7 @@ Here are some common forms that are in use within YUDL:
 
 ## Use and Reproduction
 ### In Copyright
+_point to workflow questionnaire to help narrow questions to ask to determine copyright status_
 Is your object in copyright? http://rightsstatements.org/vocab/InC/1.0/
 
 ### Public Domain Status
