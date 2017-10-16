@@ -252,21 +252,59 @@ Based on RAD Rule 1.4.B5. we follow the recoding conventions for probable and un
 
 
 #### Date Published (ISO)
+### Note
+This is a generic note field where you can add additional information pertinent to the item being described that does not logically fit into the existing schema.
+
 ### Physical Description
 If there are negatives of different sizes in the envelope say 35mm, 120 film as well as some large 9 x 11 cm ones, scan in the order of most to least for the contact sheet. So ten 35mm negs first, then six 120’s then four 9 x 11 cm but your physical description for the PDF contact sheet should read as: 20 photographs : b&w negative ; 11.9 x 9.2 cm and smaller + 1 envelope : 11 x 14.2 cm 
 
+Always measure your negatives and the envelope. Note that measurement should always be given in cm with the exception of 35 mm film.
+See below for example. Count your negatives: the number indicated on the envelope is often incorrect.
+If your envelope has all the same sized negatives, follow this example:
+* 12 photographs : b&w negative; 35 mm + 1 envelope : 11 x 14.2 cm
+If your envelope has different negative sizes, always list/measure the largest format followed by the phrase "and smaller"
+* 12 photographs : b&w negative; 11.9 x 9.2 cm and smaller + 1 envelope : 11 x 14.2 cm
+If you have an envelope with photographic material of multiple dimensions, colour negs and prints mixed in as well:
+* 12 photographs : b&w and col. negatives and prints ; 11.9 x 9.2 cm and smaller + 1 envelope : 11 x 14.2 cm
+If your envelope has extra loose leaf papers in it, just add + notes (don’t worry about counting the number of notes…)
+* 12 photographs : b&w negative; 11.9 x 9.2cm + 1 envelope : 11 x 14.2 cm and notes
+* 1 re-direct card : 11 x 14.2 cm (measure if smaller some of them are!)
+
+
 ### Relation
+Enter the number on the film strip negative. Count the total number of negatives contained in the envelope (do not rely on what is written on the envelope) and write in the following format One neg (#) scanned out of ## in assignment. (i.e. One neg (5-5A) scanned out of 30 in assignment.
+
+Other examples include:
+
+One neg (no number) scanned out of 10 in assignment.
+One neg (#20-20A) scanned out of 34 in assignment
+one neg (#G4) scanned out of 8 in assignment.
+
 ### Publications
-    Need examples
-### Parent URI
+If known, enter the full citation for the date(s) the image was published in the Telegram, following the Chicago Manual of Style. i.e. First Name Last Name (of reporter), “Article Title,” The Toronto Telegram, Month dd, yyyy, edition, Section page number. 
+ If image has been published in subsequent years, in other publications, films, exhibits, articles or monographs, enter additional citations.
+
 ### Relation
-#### Title
-#### ASC Number
+**these three fields should be entered if you are describing a tiff file**
+Provide the Title proper of the assignment envelope
+Provide the ASC number of the assignment envelope
+If you are describing a tiff file, enter the URI for the assignment envelope, i.e. https://digital.library.yorku.ca/islandora/object/yul:372340
+
 ## Subjects
+
 ### Subject
 ### Topic
-### Geographic
+This should only be filled by cataloguing staff, archives assistants and archivists. We should try to adhere to a standardized vocabularly or taxonomy, where available.
+*more details*
+
+### Geographic Information
+This should be filled out when location is clear.
+*more details and direction*
+
 ### Cartographic
+Student assistants from the Map Library will have additional training and experience in applying precise cartographic coordinates to specific objects.
+*link to Map Library protocols and instructions here*
+
 ## Rights and Use of object
 
 ### Use and Reproduction **requires clarfication**
@@ -368,10 +406,17 @@ May also be a series of prints from the same roll of film that has been clipped 
 
 
 ## Subjects
-### Subjects
 ### Topic
-### Geographic
+This should only be filled by cataloguing staff, archives assistants and archivists. We should try to adhere to a standardized vocabularly or taxonomy, where available.
+*more details*
+
+### Geographic Information
+This should be filled out when location is clear.
+*more details and direction*
+
 ### Cartographic
+Student assistants from the Map Library will have additional training and experience in applying precise cartographic coordinates to specific objects.
+*link to Map Library protocols and instructions here*
 
 ## Use and Reproduction **requires clarfication**
 Here is where we need to document our decision making and rationale about how we digitize and provide copies of prints
