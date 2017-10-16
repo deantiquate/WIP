@@ -188,7 +188,12 @@ Leave enough of a margin that you can type in the ASC numbers when you create yo
 
 ### Scan individual negatives
 1. Some of the negatives may already be scanned and have unique identifiers attributed to them. There will be ASC numbers written on the mylar slip and there may be annotations on the envelope.
-2. You may need to resleeve 
+2. Scan the individual negatives at 16>8 bit greyscale at 100 percent. Set the dpi based on the dimensions of the original based on the table below.
+3. Name the negatives using the ASC# range that you have been assigned. The contact sheet should be the first ASC number you assign. Scan in order of the negative number which is printed on the bottom of the film. As you proceed through the negative scans, update your contact sheet by typing in the ASC number underneath the image in 12pt font in white all caps.
+4. You may need to resleeve negatives that are missing mylar. There are sleeves in various pre-cut formats available from staff.
+5. Once you have finished scanning a strip of negatives, place them back into their mylar and then carefully write out the ASC# and the negative # (if present) on the outer tab of the strip.
+
+
 
 ### Scanning dimensions on flatbed scanner
 
