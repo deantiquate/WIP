@@ -178,7 +178,8 @@ Acknowlegments: These workflows are adapted from earlier iterations of scanning 
  * Order is determined by neg.# or sequence of events, note slice angles as well (this takes time sorting on the light table but is well worth the effort & time; sometimes multiple rolls of film were shot there might be multiples of the same number. Sorting out multiple reels is important
  * Some images will not be in sequence, there might be negs missing from a roll (i.e. they were pulled for publication etc.).  Do your best  and keep in mind that the images will complement the negative numbers (i.e. the beginning of the event will be in negative 1 in most cases and end at around negative 24)
 5. Only put three to four 35mm negative strips or two 4 x 5 inch negatives on each page of the contact sheet, more pages can be added to the PDF contact sheet if there are more scans in an image. Try to orient the strips so they will be easily read.
-6. If more than one page is required to scan all negatives into the contact sheet, be sure to adust the description from “File consists of front and back of negative envelope, and one contact sheet. Assignment …” to “File consists of front and back of negative envelope , and ____ contact sheets. Assignment …”. Leave enough of a margin that you can type in the ASC numbers when you create your PDF file. Give each tiff file a temporary file name.
+6. If more than one page is required to scan all negatives into the contact sheet, be sure to adust the description from “File consists of front and back of negative envelope, and one contact sheet. Assignment …” to “File consists of front and back of negative envelope , and ____ contact sheets. Assignment …”. 
+Leave enough of a margin that you can type in the ASC numbers when you create your PDF file. Give each tiff file a temporary file name.
 7. Combine the TIFF files into one PDF file in the following order: front of envelope, back of envelope, negatives, anything else in the envelope
 8. Make sure your TIFF files are oriented in an easily legible way.
 9. Assign an ASC# to the single combined PDF file. Fill out the metadata for your contact sheet in your PDF spreadsheet
@@ -188,7 +189,8 @@ Acknowlegments: These workflows are adapted from earlier iterations of scanning 
 ### Scan individual negatives
 1. Some of the negatives may already be scanned and have unique identifiers attributed to them. There will be ASC numbers written on the mylar slip and there may be annotations on the envelope.
 2. You may need to resleeve 
-#### Scanning dimensions on flatbed scanner
+
+### Scanning dimensions on flatbed scanner
 
 | Size of original | DPI for Archival TIF | Resulting pixel size |
 |------------------ | ------------------- | -------------------  |
@@ -200,6 +202,13 @@ Acknowlegments: These workflows are adapted from earlier iterations of scanning 
 | 4 x 5 inch negative (10.6 x 12.7 cm) | 900 dpi | 4500 pixels |
 | 5 x 7 inch negative (12.7 x 17.78 cm) | 700 dpi | 4200 pixels |
 | 8 x 10 inch negative (20.3 x 25.4 cm) | 600 dpi | 6000 pixels |
+
+### Placement of negatives
+Place negatives DULL side (emulsion layer) UP on the scanner. To determine which side is the emulsion side, follow these points:
+* If the images and the letters and numbers on the edge of the frame can be read correctly, you are looking at the back side.
+* If the images and edge markings are reversed, you are looking at the emulsion side.
+* The emulsion side tends to be more dull and matte in appearance.
+* Exception: 2 ½ " [6.5 x 6.5 cm] negs can appear shiny on both sides, and might not obey the rules above. You will need to look very closely / hope there is some text in the frame itself (a street sign, poster, label on a grocery item, etc.) to assist you!
 
 ## Descriptive Metadata For Telegram Negatives
 #### ASC Number
