@@ -439,7 +439,7 @@ Any photographs taken by Toronto Telegram staff photographers after 1949 and pri
 # OBJECT MODS
 #### This is a manual to assist people in entering descriptive metadata into YUDL using the generic Object MODS form.
 ## Digitization workflows
-_point to seperate docs for sound recordings/video/slides/illustrations/maps??_
+_place holder to point to seperate docs for sound recordings/video/slides/illustrations/maps??_
 ## Titles
 ### Proper Title
 ### Proper Title Sub Title
@@ -529,6 +529,7 @@ _Examples needed_
 ## Identifier
 ### Handle
 ### Local Identifier
+This is a required field. Typically there will be an ASC number that you can assign to the object.
 ### Identifier Other
 
 ## Location
@@ -549,6 +550,7 @@ Below are some of the more common formats and examples
 * Sound recording
 
 * 1 videocassette (1 hr., 38 min., 12 sec.) : chrome dioxide, master, SP, analog, col., Video 8, PAL, 3:4, sd., stereo., Dolby processed ; 8 mm 
+
 * 1 film reel (16 min.) : acetate; 16mm
 
 * Illustration
