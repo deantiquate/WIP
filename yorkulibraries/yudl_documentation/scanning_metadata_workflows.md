@@ -327,7 +327,7 @@ Any photographs taken by Toronto Telegram staff photographers after 1949 and pri
 
 # TELEGRAM PRINTS
 ## Digitization Workflows
-
+[Basic workflows available here](https://docs.google.com/document/d/1o1ivgloug7Gf7Z4A3etYe9VXAjzTTdjrgDwQD8YuvQs/edit?usp=sharing)
 ## Descriptive Metadata For prints
 ### ASC Number
 ### Box and File Number
@@ -455,6 +455,7 @@ _point to seperate docs for sound recordings/video/slides/illustrations/maps??_
 ### Value of URI
 ##  Terms of Address
 ##  Date
+
 ##  Affiliation
 
 ## Role
@@ -479,9 +480,42 @@ As part of a move towards more structured descripttion, we must attribute a genr
 Note that there are nuanced differences between genre and form (also a required field listed below)
 
 ## Origin Info
+Based on RAD Rule 1.4.B5. we follow the recoding conventions for probable and uncertain dates as follows: 
 
+| Date | convention |
+| --------- | --------- |
+| [1867?] | probable date|
+| [ca. 1867] | approximate date |
+| [before 1867] | terminal date |
+| [after 5 Jan. 1867]| terminal date |
+| [1892 or 1893]| one year or the other |
+| [between 1915 and 1918]| use only for dates fewer than 20 years apart |
+| [197-] | decade certain |
+| [186-?] | probable decade |
+| [17–] | century certain |
+| [17–?] | probable century |
 ### Date (other) Free Text
+
 ### Date Issued
+This field is required.
+Enter the earliest date stamped on the verso of the print in the following format YYYY-MM-DD.
+If the information is incomplete, or an estimate, YUL policy is to follow ISO_8601 standards on documenting intervals extended date/time formats. For more information see: https://www.loc.gov/standards/datetime/
+
+The character '?' (question mark) is used to mean "uncertain". The character '~'  (tilde) is used to mean "approximate".  The character  '%’  (percent)  is  used to  mean  “both  uncertain  and  approximate".  “Uncertain” and/or “approximate” may apply to full representations as well as representation with reduced precision.
+
+| Date (RAD standard) | convention | [ISO 8601_2](https://www.iso.org/standard/70908.html) |
+| --------- | --------- | --------|
+| [1967?] | probable date| 1967? |
+| [ca. 1967] | approximate date | 1967~ |
+| [before 1967] | terminal date | ../1967-01-01 |
+| [after 5 January 1967]| terminal date | 1967-01-05/.. |
+| [1930 or 1933]| one year or the other | [1930,1933] |
+| [between 1915 and 1918]| use only for dates fewer than 20 years apart | 1915-01-01~/1918-12-31 |
+| [196-] | decade certain | 196 |
+| [196-?] | probable decade | 196~ |
+| [19–] | century certain | 19~ |
+| [19–?] | probable century | 1900/1999 |
+
 ### Publisher
 ### Place
 
@@ -549,6 +583,7 @@ Here are some common forms that are in use within YUDL:
 ### Finding Aid URI
 
 ## Subject
+
 ## Topic
 ## Geographic
 ## Temporal
